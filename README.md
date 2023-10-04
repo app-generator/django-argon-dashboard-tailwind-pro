@@ -1,6 +1,6 @@
 # [Argon Tailwind Django](https://appseed.us/product/argon-dashboard-tailwind-pro/django/) `PRO`
 
-Premium **Django Dashboard** provided by `AppSeed` op top of a modern design. 
+Premium **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** provided by `AppSeed` op top of a modern design. 
 Designed for those who like bold elements and beautiful websites, **[Argon UI Dashboard](https://appseed.us/product/argon-dashboard-tailwind-pro/django/django/)** is ready to help you create stunning websites and webapps. **Argon UI Dashboard** is built with over 100+ frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining - Designed by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200).
 
 - 👉 [Argon Tailwind Django PRO](https://appseed.us/product/argon-dashboard-tailwind-pro/django/) - `product page`
